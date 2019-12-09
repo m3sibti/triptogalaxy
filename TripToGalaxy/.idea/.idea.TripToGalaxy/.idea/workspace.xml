@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3c0c356-fe61-46fd-bcfe-5ad5df7d7221" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Planet.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/mScripts/Planet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="165" column="27" lean-forward="true" selection-start-line="165" selection-start-column="27" selection-end-line="165" selection-end-column="27" />
+              <folding>
+                <marker date="1546883984198" expanded="false" signature="6:66" ph="..." />
+                <marker date="1546883984198" expanded="true" signature="86:10314" ph="{...}" />
+                <marker date="1546883984198" expanded="true" signature="113:10307" ph="{...}" />
+                <marker date="1546883984198" expanded="true" signature="782:1318" ph="{...}" />
+                <marker date="1546883984198" expanded="true" signature="1364:9089" ph="{...}" />
+                <marker date="1546883984198" expanded="false" signature="9136:9195" ph="{...}" />
+                <marker date="1546883984198" expanded="false" signature="9248:10283" ph="{...}" />
+                <marker date="1546883984198" expanded="true" signature="9345:10273" ph="{...}" />
+                <marker date="1546883984198" expanded="true" signature="10316:10626" ph="/* References ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gameController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/mScripts/gameController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="64" column="44" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
+              <folding>
+                <marker date="1546883305199" expanded="true" signature="6:164" ph="..." />
+                <marker date="1546883305199" expanded="true" signature="209:1785" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="214:377" ph="/* public GameObject SunSphere; ... */" />
+                <marker date="1546883305199" expanded="true" signature="393:459" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="514:521" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="569:769" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="575:642" ph="/* Debug.Log(&quot;Hello Buddy&quot;); ... */" />
+                <marker date="1546883305199" expanded="true" signature="801:847" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="898:1018" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="1067:1146" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="1187:1586" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="1486:1560" ph="{...}" />
+                <marker date="1546883305199" expanded="true" signature="1629:1783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/mScripts/planetRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/mScripts/Planet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Beta/Demos/Hello6DoFControllers/Scripts/DemoObjectController6DoF.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/mScripts/gameController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/mScripts/MyPlanet.cs" />
+        <option value="$PROJECT_DIR$/Assets/mScripts/planetRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs" />
+        <option value="$PROJECT_DIR$/Assets/mScripts/gameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/mScripts/Planet.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="410" />
+    <option name="y" value="-12" />
+    <option name="width" value="838" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TripToGalaxy (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TripToGalaxy (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TripToGalaxy (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TripToGalaxy (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="mScripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TripToGalaxy" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TripToGalaxy" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3c0c356-fe61-46fd-bcfe-5ad5df7d7221" name="Default" comment="" />
+      <created>1546819177233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546819177233</updated>
+      <workItem from="1546819190238" duration="34322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34322000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Unit Tests" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14674735" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="2" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/mScripts/MyPlanet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tex/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Beta/Demos/Hello6DoFControllers/Scripts/DemoObjectController6DoF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173">
+          <folding>
+            <marker date="946713600000" expanded="true" signature="0:608" ph="/* Copyright 2018 Google Inc. All rights reserved. ... */" />
+            <marker date="946713600000" expanded="true" signature="649:5051" ph="{...}" />
+            <marker date="946713600000" expanded="false" signature="659:741" ph="..." />
+            <marker date="946713600000" expanded="true" signature="799:5049" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1090:1256" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1296:1392" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1420:2537" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1599:2118" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1724:1841" ph="/* Offset the object 15cm down the pointing axis of the controller ... */" />
+            <marker date="946713600000" expanded="true" signature="2060:2110" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2183:2257" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2543:2666" ph="/* Hook this up to Event Trigger PointerEnter with the checkbox checked ... */" />
+            <marker date="946713600000" expanded="true" signature="2708:2864" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2773:2858" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2971:3325" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3153:3319" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3428:3701" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3610:3695" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3809:4025" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3982:4019" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4063:5045" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4071:4168" ph="/* Pick a random sibling, move them somewhere random, activate them, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3309">
+          <folding>
+            <marker date="946713600000" expanded="true" signature="0:581" ph="/* Copyright 2016 Google Inc. All rights reserved. ... */" />
+            <marker date="946713600000" expanded="false" signature="589:688" ph="..." />
+            <marker date="946713600000" expanded="true" signature="690:2369" ph="/// This script provides an implemention of Unity's `BaseInputModule` class, so ... " />
+            <marker date="946713600000" expanded="true" signature="2593:7672" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2597:2799" ph="/// Determines whether Pointer input is active in VR Mode only (`true`), or all of the ... " />
+            <marker date="946713600000" expanded="true" signature="3228:3280" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3238:3276" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3330:3386" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3340:3382" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3427:3802" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3437:3615" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3544:3574" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3624:3798" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3731:3756" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3806:4229" ph="/// GvrBasePointer calls this when it is created. ... " />
+            <marker date="946713600000" expanded="true" signature="4299:4517" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4402:4423" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4462:4513" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4521:4634" ph="/// Helper function to find the Event Executor that is part of ... " />
+            <marker date="946713600000" expanded="true" signature="4688:4856" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4784:4810" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4860:4966" ph="/// Helper function to find the input module if one exists in the ... " />
+            <marker date="946713600000" expanded="true" signature="5023:5329" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5062:5088" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5170:5196" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5451:5886" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5461:5882" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5577:5622" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5660:5705" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5760:5805" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6017:6062" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6189:6223" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6287:6344" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6462:6515" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6551:6690" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6806:6851" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6880:6914" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7068:7124" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7255:7296" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7374:7436" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7476:7670" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7500:7521" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <folding>
+            <marker date="946713600000" expanded="true" signature="0:608" ph="/* Copyright 2014 Google Inc. All rights reserved. ... */" />
+            <marker date="946713600000" expanded="true" signature="637:3137" ph="{...}" />
+            <marker date="946713600000" expanded="false" signature="647:693" ph="..." />
+            <marker date="946713600000" expanded="true" signature="782:3135" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="949:1076" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1119:1291" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1184:1285" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1317:1625" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1452:1619" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1654:1851" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1764:1820" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1911:3131" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1919:2035" ph="/* Only trigger on left input button, which maps to ... */" />
+            <marker date="946713600000" expanded="true" signature="2119:2219" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2182:2211" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2227:2324" ph="/* Pick a random sibling, move them somewhere random, activate them, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mScripts/planetRotator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="47" column="76" selection-start-line="47" selection-start-column="76" selection-end-line="47" selection-end-column="76" />
+          <folding>
+            <marker date="1546846310013" expanded="true" signature="6:143" ph="..." />
+            <marker date="1546846310013" expanded="true" signature="188:2202" ph="{...}" />
+            <marker date="1546846310013" expanded="true" signature="321:382" ph="/* private int checkVar = 0; ... */" />
+            <marker date="1546846310013" expanded="true" signature="398:863" ph="{...}" />
+            <marker date="1546846310013" expanded="true" signature="630:777" ph="/* Debug.Log(currentPlanet.pName); ... */" />
+            <marker date="1546846310013" expanded="true" signature="918:1000" ph="{...}" />
+            <marker date="1546846310013" expanded="true" signature="1067:1370" ph="{...}" />
+            <marker date="1546846310013" expanded="true" signature="1098:1145" ph="{...}" />
+            <marker date="1546846310013" expanded="true" signature="1445:1627" ph="{...}" />
+            <marker date="1546846310013" expanded="false" signature="1678:2200" ph="{...}" />
+            <marker date="1546846310013" expanded="true" signature="1704:2197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mScripts/solarDetai.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1728">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding>
+            <marker date="1546880088865" expanded="true" signature="0:608" ph="/* Copyright 2016 Google Inc. All rights reserved. ... */" />
+            <marker date="1546880088865" expanded="false" signature="616:728" ph="..." />
+            <marker date="1546880088865" expanded="true" signature="730:1017" ph="/// This script provides a raycaster for use with the GvrPointerInputModule. ... " />
+            <marker date="1546880088865" expanded="true" signature="1237:6236" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="1339:1458" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="1396:1454" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="1921:2364" ph="/* The max number of hits that the raycaster can detect at once. ... */" />
+            <marker date="1546880088865" expanded="true" signature="2629:2898" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="2639:2675" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="2684:2894" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="2832:2888" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3033:3316" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3148:3312" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3239:3269" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3416:3531" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3426:3527" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3670:3774" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3680:3720" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3729:3770" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3817:3822" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="3858:3924" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="4089:5912" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="4121:4148" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="4190:4308" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="4445:4472" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="4509:4857" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="4945:5890" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="5411:5438" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="5493:5846" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="5970:6209" ph="{...}" />
+            <marker date="1546880088865" expanded="true" signature="6000:6127" ph="/* Makes sure that the hits buffer is updated if maxRaycastHits is changed in the inspector ... */" />
+            <marker date="1546880088865" expanded="true" signature="6159:6205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mScripts/gameController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="64" column="44" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
+          <folding>
+            <marker date="1546883305199" expanded="true" signature="6:164" ph="..." />
+            <marker date="1546883305199" expanded="true" signature="209:1785" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="214:377" ph="/* public GameObject SunSphere; ... */" />
+            <marker date="1546883305199" expanded="true" signature="393:459" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="514:521" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="569:769" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="575:642" ph="/* Debug.Log(&quot;Hello Buddy&quot;); ... */" />
+            <marker date="1546883305199" expanded="true" signature="801:847" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="898:1018" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="1067:1146" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="1187:1586" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="1486:1560" ph="{...}" />
+            <marker date="1546883305199" expanded="true" signature="1629:1783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mScripts/Planet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="165" column="27" lean-forward="true" selection-start-line="165" selection-start-column="27" selection-end-line="165" selection-end-column="27" />
+          <folding>
+            <marker date="1546883984198" expanded="false" signature="6:66" ph="..." />
+            <marker date="1546883984198" expanded="true" signature="86:10314" ph="{...}" />
+            <marker date="1546883984198" expanded="true" signature="113:10307" ph="{...}" />
+            <marker date="1546883984198" expanded="true" signature="782:1318" ph="{...}" />
+            <marker date="1546883984198" expanded="true" signature="1364:9089" ph="{...}" />
+            <marker date="1546883984198" expanded="false" signature="9136:9195" ph="{...}" />
+            <marker date="1546883984198" expanded="false" signature="9248:10283" ph="{...}" />
+            <marker date="1546883984198" expanded="true" signature="9345:10273" ph="{...}" />
+            <marker date="1546883984198" expanded="true" signature="10316:10626" ph="/* References ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
