@@ -25,7 +25,7 @@ A Solar System for Educational Purpose of Students
 	Canvas
 		* For Information in 2d text 
 	Planet Model Class
-		* String pName, pDetails pLengthOfDay pTemperatue pNoOfMoons pMass pTimeForAxis pTimeForSun;
+		* String pName, pDetails pLengthOfDay pTemperatue pNoOfMoons pMass pTimeForAxis pTimeForSun
                 * float pRadius pAxisRotaion pOrbitRotation pDistanceFromCenter 
 		* Methods -createList, getPlanetbyIndex, getPlanetbyName
 	My Measurements
