@@ -4,11 +4,11 @@ A Student Trip to Galaxy in Virtual Reality by Sibti Malik
 A Solar System for Educational Purpose of Students
 
 ## User Perspective:
-	-A VR View of Solar System
-	-On interactin name of planet appears on it top
-	-Contains 9 Planets, Earth with it's moon, And a Sun
-	-A button also appears on top of planet
-	-on interaction with that button it shows you the the information/detail of that planet
+	- A VR View of Solar System
+	- On interactin name of planet appears on it top
+	- Contains 9 Planets, Earth with it's moon, And a Sun
+	- A button also appears on top of planet
+	- on interaction with that button it shows you the the information/detail of that planet
 
 ## Developer Perspective:
 	Contain 3 Scripts
@@ -26,10 +26,10 @@ A Solar System for Educational Purpose of Students
 		* For Information in 2d text 
 	Planet Model Class
 		* String pName, pDetails pLengthOfDay pTemperatue pNoOfMoons pMass pTimeForAxis pTimeForSun
-                * float pRadius pAxisRotaion pOrbitRotation pDistanceFromCenter 
+            * float pRadius pAxisRotaion pOrbitRotation pDistanceFromCenter 
 		* Methods -createList, getPlanetbyIndex, getPlanetbyName
 	My Measurements
-		* pRadius 		=> Radius(real/1000) & Diameter is 2xR 
+		    * pRadius 		        => Radius(real/1000) & Diameter is 2xR 
                 * pAxisRotaion 		=> Axis Rotaion using mi/s => 10.892 km/h (0.018 mi/s)  //Equator Moves at that speed
                 * pOrbitRotation 		=> Orbital Rotation r=(km/s) r/10 
                 * pDistanceFromCenter	=> Distance from center (miles/10,000,000)
